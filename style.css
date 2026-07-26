@@ -16,7 +16,7 @@
     width: 100px;
 }
 .logo{
-    background-image: url(/amazon\ logo.jpeg);
+    background-image: url(amazon\ logo.jpeg);
     background-size: 115px 60px;
     height: 50px;
     width: 100%; 
@@ -27,7 +27,6 @@
 .border:hover{
     border: 1px solid white;
 }
-/* bos 2 */
 .deliever{
     color: #cccccc;
     font-size: 0.85rem;
@@ -36,13 +35,11 @@
 .adress{
     font-size: 1rem;
     margin-left: 3px;
-    
 }
 .add-icons{
     display: flex;
     align-items: center;
 }
-/* box3 */
 .nav-search{
     display: flex;
     justify-content: space-evenly;
@@ -75,7 +72,6 @@
     border-bottom-right-radius: 3px;
     color: #0f1111;
 }
-/* box4 */
 span{
     font-size: 0.7rem;
 }
@@ -86,7 +82,6 @@ span{
 .nav-search:hover {
     border: 2px solid orange;
 }
-/* box6 */
 .nav-cart i {
     font-size: 30px;
 }
@@ -94,7 +89,6 @@ span{
     font-size: 0.85rem;
     font-weight: 700;
 }
-/* panel */
 .panel{
     height: 40px;
     background-color: #222f3d;
@@ -110,15 +104,13 @@ span{
 .panel-options {
     width: 70%;
     font-size: 0.85rem;
-
 }
 .panel-deals{
     font-size: 0.9rem;
     font-weight: 700;
 }
-/* hero section */
 .hero-section{
-    background-image: url(/Hero-Amazon.jpg);
+    background-image: url(Hero-Amazon.jpg);
     height: 350px;
     background-size: cover;
     display: flex;
@@ -139,7 +131,6 @@ span{
 .hero-msg a{
     color: #007185;
 }
-/* .shop-section */
 .shop-section{
     display: flex;
     justify-content: space-evenly;
@@ -204,7 +195,7 @@ ul p{
     align-items: center;
 }
 .logo-footer{
-    background-image: url(/amazon\ logo.jpeg);
+    background-image: url(amazon\ logo.jpeg);
     background-size: cover;
     height: 45px;
     width: 110px;
